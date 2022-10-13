@@ -1,0 +1,25 @@
+{
+  "name": "npmspace",
+  "version": "1.0.0",
+  "description": "npm tets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "release": "release-it"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guo897654050/npmspace.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guo897654050/npmspace/issues"
+  },
+  "homepage": "https://github.com/guo897654050/npmspace#readme",
+  "devDependencies": {
+    "@release-it/conventional-changelog": "^5.1.1",
+    "release-it": "^15.5.0"
+  }
+}
